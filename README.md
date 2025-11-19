@@ -6,7 +6,7 @@ Are you curious about what I'm currently using? I am using [Astrojs](https://ast
 
 🌻 ↳ [Website](#) (_working_) ↳ [OSU! Profile](https://osu.ppy.sh/users/5453513) ↳ [BSKY Profile](https://bsky.app/profile/tokyotf.bsky.social) 🧧 E-Mail: tokyotf@hotmail.com 🌻
 
-✨ _My Emoji style_ ✨
+✨ _My lifestyle represented in emojis_ ✨
 
 <div style="display:flex;">
 <img height="35em" src="https://media.tenor.com/C6cp6n9BHgAAAAAi/shupogaki-acomu414.gif"/>
