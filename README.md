@@ -4,8 +4,12 @@
 
 Are you curious about what I'm currently using? I am using [Astrojs](https://astro.build/), [Svelte](https://svelte.dev/), [Electronjs](https://www.electronjs.org/), and [TailwindCSS](https://tailwindcss.com/).
 
-🌻 ↳ [Website](https://tk-abyss.vercel.app/) ↳ [OSU! Skins](https://osuskinworld.xyz) ↳ [OSU! Profile](https://osu.ppy.sh/users/5453513) ↳ [BSKY Profile](https://bsky.app/profile/tokyotf.bsky.social) 🧧 E-Mail: tokyotf@hotmail.com 🌻
+🌻 ↳ [Website](https://tk-abyss.vercel.app/) ↳ [OSU! Profile](https://osu.ppy.sh/users/5453513) ↳ [BSKY Profile](https://bsky.app/profile/tokyotf.bsky.social) 🧧 E-Mail: tokyotf@hotmail.com 🌻
 
+✨ _Proyects_ ✨
+
+ ↳ [ThumbnailUWU](https://thumbnail-uwu-one.vercel.app/) ↳ [OSU! Skins](https://osuskinworld.xyz)
+ 
 ✨ _My lifestyle represented in emojis_ ✨
 
 <div style="display:flex;">
