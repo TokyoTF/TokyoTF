@@ -8,7 +8,7 @@ Are you curious about what I'm currently using? I am using [Astrojs](https://ast
 
 ✨ _Proyects_ ✨
 
- ↳ [ThumbnailUWU](https://thumbnail-uwu-one.vercel.app/) ↳ [OSU! Skins](https://osuskinworld.xyz)
+ ↳ [ThumbnailUWU](https://thumbnail-uwu-one.vercel.app/) ↳ [OSU! Skins](https://osuskinworld.xyz) ↳ [ChaosElements](https://chaoselements.net)
  
 ✨ _My lifestyle represented in emojis_ ✨
 
